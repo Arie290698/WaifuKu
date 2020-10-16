@@ -1,5 +1,5 @@
 { 
-  "build": "20", 
+  "build": "23", 
   "ads": "0", 
   "admob": "0",
   "startapp": "1",
