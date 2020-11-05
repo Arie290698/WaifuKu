@@ -5,6 +5,7 @@
   "startapp": "1",
   "interval": "8",
   "timeAds": "3",
+  "packageName": "serarinne.waifuku",
   "banner": "ca-app-pub-8564552661823043/1557852071", 
   "reward": "ca-app-pub-8564552661823043/6389158346",
   "inter": "ca-app-pub-8564552661823043/4607153836",
