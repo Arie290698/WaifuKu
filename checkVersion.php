@@ -1,11 +1,11 @@
 { 
-  "build": "1", 
+  "build": "2", 
   "ads": "0", 
   "admob": "0",
   "startapp": "1",
   "interval": "8",
   "timeAds": "3",
-  "packageName": "serarinne.waifuku",
+  "packageName": "com.tencent.ig",
   "banner": "ca-app-pub-8564552661823043/1557852071", 
   "reward": "ca-app-pub-8564552661823043/6389158346",
   "inter": "ca-app-pub-8564552661823043/4607153836",
