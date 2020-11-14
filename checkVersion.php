@@ -3,7 +3,7 @@
   "ads": "0", 
   "admob": "0",
   "startapp": "1",
-  "interval": "8",
+  "interval": "15",
   "timeAds": "3",
   "packageName": "serarinne.waifuku",
   "banner": "ca-app-pub-8564552661823043/9233156917", 
