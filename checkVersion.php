@@ -4,7 +4,7 @@
   "admob": "0",
   "startapp": "1",
   "interval": "15",
-  "timeAds": "3",
+  "timeAds": "5",
   "packageName": "serarinne.waifuku",
   "banner": "ca-app-pub-8564552661823043/9233156917", 
   "reward": "ca-app-pub-8564552661823043/2667748560",
