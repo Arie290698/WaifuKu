@@ -9,6 +9,6 @@
   "banner": "ca-app-pub-8564552661823043/9233156917", 
   "reward": "ca-app-pub-8564552661823043/2667748560",
   "inter": "ca-app-pub-8564552661823043/4607153836",
-  "site": "https:\/\/raw.githubusercontent.com\/Arie290698\/WaifuKu\/master",
+  "site": "https:\/\/serarinne.my.id\/mypanel\/waifuku",
   "review": "0"
 }
