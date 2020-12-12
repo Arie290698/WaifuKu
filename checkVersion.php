@@ -1,8 +1,6 @@
 { 
   "build": "102", 
-  "ads": "0", 
-  "admob": "0",
-  "startapp": "1",
+  "kedebug": "1", 
   "interval": "15",
   "timeAds": "5",
   "packageName": "serarinne.waifuku",
