@@ -1,6 +1,6 @@
 { 
   "build": "102", 
-  "kedebug": "1", 
+  "kedebug": "0", 
   "interval": "15",
   "timeAds": "5",
   "packageName": "serarinne.waifuku",
