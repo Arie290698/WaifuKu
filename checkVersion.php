@@ -1,7 +1,7 @@
 { 
   "build": "201", 
   "kedebug": "0", 
-  "interval": "20",
+  "interval": "10",
   "timeAds": "5",
   "packageName": "serarinne.waifuku",
   "open": "ca-app-pub-8564552661823043/8479681121",
